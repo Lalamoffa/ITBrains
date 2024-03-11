@@ -187,7 +187,7 @@ namespace WindowsFormsApp1
         private void button9_Click(object sender, EventArgs e)
         {
             if (label1.Text != "0")
-            {
+            {  
                 label1.Text += "9";
                 number += 9;
             }
